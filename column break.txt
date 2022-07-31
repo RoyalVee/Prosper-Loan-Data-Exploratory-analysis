@@ -3,12 +3,11 @@ Qualitative or categorical types (non-numeric types)
 Nominal data:
 LoanStatus
 EmploymentStatus
-IsBorrowerHomeowner
-IncomeVerifiable 
+IsBorrowerHomeowner bool
+IncomeVerifiable bool
 BorrowerState
 Occupation
-IsBorrowerHomeowner
-IncomeVerifiable 
+IncomeVerifiable bool
 
 Ordinal data:
 ProsperRating
